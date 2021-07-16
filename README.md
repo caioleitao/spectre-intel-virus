@@ -1,1 +1,4 @@
-# spectre-intel-virus
+# Spectre Intel Virus
+DONT RUN IT ON REAL MACHINE, IS A VIRUS!
+
+NAO RODE ISSO EM UMA MAQUINA REAL, ISSO E UM VIRUS!
