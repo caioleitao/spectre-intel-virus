@@ -19,16 +19,8 @@ NAO RODE ISSO SEM SABER, ISSO E UM EXEMPLO DE VIRUS!
 ESSES ARQUIVOS FORAM CRIADOS PARA SOMENTE PROPOSITOS EDUCACIONAIS E DE APRENDIZAGEM
 
 <br/>
-
-
+<br/>
 Como executar:
-
-
 Modifique o arquivo / etc / default / grub e coloque a seguinte opção em GRUB_CMDLINE_LINUX_DEFAULT: mitigations = off e reinicie o computador, assim a cpu ficará vulnerável a ataques de espectro
-
-
 Compile o arquivo com o seguinte comando no diretório do projeto: gcc -o specter main.cpp
-
-
 e execute o arquivo com ./spectre
-
