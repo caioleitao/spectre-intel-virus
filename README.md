@@ -21,6 +21,9 @@ ESSES ARQUIVOS FORAM CRIADOS PARA SOMENTE PROPOSITOS EDUCACIONAIS E DE APRENDIZA
 <br/>
 <br/>
 Como executar:
+<br/>
 Modifique o arquivo / etc / default / grub e coloque a seguinte opção em GRUB_CMDLINE_LINUX_DEFAULT: mitigations = off e reinicie o computador, assim a cpu ficará vulnerável a ataques de espectro
+<br/>
 Compile o arquivo com o seguinte comando no diretório do projeto: gcc -o specter main.cpp
+<br/>
 e execute o arquivo com ./spectre
