@@ -7,7 +7,7 @@ NAO RODE ISSO SEM SABER, ISSO E UM EXEMPLO DE VIRUS!
 <BR/>
 ESSES ARQUIVOS FORAM CRIADOS PARA SOMENTE PROPOSITOS EDUCACIONAIS E DE APRENDIZAGEM
 
-<BR?>
+<BR/>
 Como executar:
 <br/>
 Modifique o arquivo /etc/default/grub e coloque em GRUB_CMDLINE_LINUX_DEFAULT a sequinte opcao: mitigations=off e reinicnie o computador, com isso a cpu estara vuneravel a ataques de spectre 
