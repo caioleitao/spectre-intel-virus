@@ -21,7 +21,7 @@ ESSES ARQUIVOS FORAM CRIADOS PARA SOMENTE PROPOSITOS EDUCACIONAIS E DE APRENDIZA
 <br/>
 Como executar:
 <br/>
-Modifique o arquivo /etc/default/grub e coloque a seguinte opção em GRUB_CMDLINE_LINUX_DEFAULT="mitigations = off" e reinicie o computador, assim a cpu ficará vulnerável a ataques de spectre
+Modifique o arquivo /etc/default/grub e coloque a seguinte opção em GRUB_CMDLINE_LINUX_DEFAULT="mitigations=off" e reinicie o computador, assim a cpu ficará vulnerável a ataques de spectre
 <br/>
 Compile o arquivo com o seguinte comando no diretório do projeto: gcc -o spectre main.cpp
 <br/>
