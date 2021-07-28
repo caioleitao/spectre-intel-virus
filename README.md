@@ -4,6 +4,7 @@ DONT RUN IT WITHOUT KNOW, IS A EXAMPLE VIRUS!
 THIS FILES WAS CREATED FOR EDUCATIONAL AND LEARNING PURPOSES ONLY
 
 <BR/>
+<br/>
 How to run:
 <br/>
 Modify the /etc/default/grub file and put the following option in GRUB_CMDLINE_LINUX_DEFAULT: mitigations=off and restart the computer, thus the cpu will be vulnerable to spectrum attacks
@@ -20,6 +21,7 @@ NAO RODE ISSO SEM SABER, ISSO E UM EXEMPLO DE VIRUS!
 ESSES ARQUIVOS FORAM CRIADOS PARA SOMENTE PROPOSITOS EDUCACIONAIS E DE APRENDIZAGEM
 
 <BR/>
+<br/>
 Como executar:
 <br/>
 Modifique o arquivo / etc / default / grub e coloque a seguinte opção em GRUB_CMDLINE_LINUX_DEFAULT: mitigations = off e reinicie o computador, assim a cpu ficará vulnerável a ataques de espectro
