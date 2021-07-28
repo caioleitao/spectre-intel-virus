@@ -12,7 +12,9 @@ Compile the file with the following command into the project directory: gcc -o s
 <br/>
 and run the file with ./spectre
 
-
+<br/>
+<br/>
+<br/>
 NAO RODE ISSO SEM SABER, ISSO E UM EXEMPLO DE VIRUS!
 <BR/>
 ESSES ARQUIVOS FORAM CRIADOS PARA SOMENTE PROPOSITOS EDUCACIONAIS E DE APRENDIZAGEM
